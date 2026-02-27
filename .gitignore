@@ -5,7 +5,7 @@ node_modules/
 .env
 
 # Service account keys
-*.json
+
 
 # Logs
 *.log
